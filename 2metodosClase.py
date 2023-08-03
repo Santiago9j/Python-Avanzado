@@ -1,5 +1,5 @@
 class Persona():
-    #Constructor por defecto
+    #Constructor por defecto, no recibe parametros
     def __init__(self):
         pass
 
