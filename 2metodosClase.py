@@ -1,4 +1,4 @@
-class Persona():
+class Persona:
     #Constructor por defecto, no recibe parametros
     def __init__(self):
         pass
