@@ -1,0 +1,71 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 12/12/2022, 06:28:40 PM
+    Author     : Santiago Torres
+*/
+
+body {
+    background-color: gray;
+    background-image: url('https://arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/YSYSRWGCA5HLJKDYCBMLXGHMC4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pContent{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+body .principal{
+    background-color: rgba(255,255,255,0.7);
+    width: 95%;
+    text-align: center;
+}
+h1{
+    font-weight: 900;
+    color: brown;
+    text-align: center;
+    margin: 5px;
+}
+a{
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+    background-color: #ada1a1;
+    border-radius: 7px;
+    height: 30px;
+}
+a:hover{
+    color: purple;
+    font-size: 23px;
+}
+.segundo{
+    background-color: rgba(255,255,255,0.9);
+    width: 400px;
+    height: 300px;
+    align-items: center; 
+    padding: 5px;
+    padding-top: 10px;
+    border-radius: 20px;
+    margin: 0px;
+    position: absolute;
+    bottom: 50px;
+    right: 110px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h2{
+    color: brown;
+    text-align: center;
+    font-weight: 900;
+    font-size: 26px;
+    margin-top: 0px;
+}
